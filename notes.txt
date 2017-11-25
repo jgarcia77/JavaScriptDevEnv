@@ -1,0 +1,42 @@
+What Belongs in your Start Kit
+==============================
+Package Management
+Bundling
+Minification
+Sourcemaps
+Transpiling
+Dynamic HTML Generation
+Centralizzed HTTP
+Mock API framework
+Component libraries
+Development Webserver
+Linting
+Automated testing
+Continuous Integration
+Automate build
+Automated deployment
+
+
+Sharing Your Work
+=================
+localtunnel
+-	share you local machine
+-	npm i localtunnel -g
+- Start your app
+- lt --port 3000
+
+ngrok
+- more steps and config required
+- tighter security
+
+Surge
+- only supports static files
+- public web server
+- npm i surge -g
+- surge
+- you can use your own domain name
+
+now
+- quickly deploy to the cloud
+- npm i -g now
+- now
